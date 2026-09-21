@@ -1,5 +1,5 @@
 ﻿# Img-upscale
-<p>Projeto sem IA</p>
+<p>Software de upscale de imagens SEM ITELIGENCIA ARTIFICIAL, com intuito de simplesmente melhorar a qualidade de uma imagem qualquer. Tive essa idea tentando melhorar a qualidade de uma imagem no Photoshop.</p>
 
 <h1>Requisitos</h1>
 <p>
