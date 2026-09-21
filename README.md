@@ -1,5 +1,5 @@
 ﻿# Img-upscale
-
+<p>Projeto sem IA</p>
 
 <h1>Requisitos</h1>
 <p>
