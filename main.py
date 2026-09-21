@@ -1,23 +1,27 @@
 import customtkinter as ctk
-# from PIL import Image
-#import io
-#import base64
 
 
 
-class app(ctk.CTk):
+class Application(ctk.CTk):
+
     def __init__(self):
         super().__init__()
 
-        self.title("Image Enhancer")
+        self.title(
+            "Titulo"
+        )
 
-        self.geometry("1280x720")
+        self.geometry(
+            "1200x750"
+        )
 
-        self.minsize(1000, 600)
+def main():
+    app = Application()
+    app.mainloop()
 
-        ctk.set_appearance_mode("dark")
 
-        ctk.set_default_color_theme("blue")
+if __name__ == "__main__":
+    main()
 
 
         
