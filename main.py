@@ -48,6 +48,46 @@ class Application(ctk.CTk):
             
               
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def main():
     app = Application()
     app.mainloop()
