@@ -1,1 +1,10 @@
-from PIL import Image
+
+#include <iostream>
+
+
+
+struct Tamanho{
+
+
+
+
